@@ -7,8 +7,7 @@ Credit for the original implementation goes to [jcalfeee](https://github.com/jca
 
 [![npm version](https://img.shields.io/npm/v/bitsharesjs-ws.svg?style=flat-square)](https://www.npmjs.com/package/bitsharesjs-ws)
 
-## Installation
-
+## Установка
 This library can be obtained through npm:
 ```
 npm install https://github.com/u-transnet/bitsharesjs-ws
@@ -116,9 +115,9 @@ __Usage examples__
 
 The tests show several use cases, to run, simply type `npm run test`. The tests require a local witness node to be running, as well as an active internet connection.
 
-## Contributing
-We'd love to have your helping hand on our project! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+## Сотрудничество
+Мы будем рады вашей помощи в развитии проекта! Откройте [CONTRIBUTING.ru.md](CONTRIBUTING.ru.md) для того, чтобы узнать чем Вы можете поможете помочь проекту и как присоединиться
 
-## License
-Project is under the MIT license. See [LICENSE](LICENSE) for more information.
+## Лицензия
+Проект использует MIT лицензию. Откройте [LICENSE](LICENSE) для подробностей
 
