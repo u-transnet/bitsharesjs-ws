@@ -34,7 +34,7 @@ _this = {
         UTT: {
             core_asset: "UTT",
             address_prefix: "UTT",
-            chain_id: "f2cadad445b96c68a0e804075d5f76be2225d9d80cd5f865849c98b2c23a439c"
+            chain_id: "91bd0e6124ec4cd4e2c655f963276284916e297da28d0fdab279b95ab84e6545"
         }
     },
 
